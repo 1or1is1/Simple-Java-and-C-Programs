@@ -15,3 +15,4 @@ I have tried to code some random problems in java or c
           encrypted number will be : ((1+1)(1+2)(1+3)(1+4)(1+5)(1+6)(1+7)) = 2345678
           for numbers like (8+9) = 17, we have to take mod i.e, 17 % 9 = 8
           another eg.  number = 1633738 , encrypted number = 6312741
+                                          (Encryption.java)
