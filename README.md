@@ -11,8 +11,19 @@ I have tried to code some random problems in java or c
              
 
 2. A simple encryption and decryption method, to encrypt a given number(each digit is added with key(incremented))
+          
           for eg. number = 1111111, key = 1(i.e, the addition will start with 1)
           encrypted number will be : ((1+1)(1+2)(1+3)(1+4)(1+5)(1+6)(1+7)) = 2345678
           for numbers like (8+9) = 17, we have to take mod i.e, 17 % 9 = 8
           another eg.  number = 1633738 , encrypted number = 6312741
                                           (Encryption.java)
+
+3. Program to print the Fibonacci number of, the given number of Digits;
+
+          for Eg. Number = 3, :- The First 3 digit prime number is : 144
+          with index 12
+          Another eg. number = 20, : Fib. no = 12200160415121876738
+          with index no. 93
+          Note : I have taken the Fib. Series from 0 i.e
+          0 1 1 2 3 5 8 13 21 34 .....
+                                          (FibNum.java)
