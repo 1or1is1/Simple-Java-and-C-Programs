@@ -20,7 +20,7 @@ I have tried to code some random problems in java or c
 
 3. Program to print the Fibonacci number of, the given number of Digits;
 
-          for Eg. Number = 3, :- The First 3 digit prime number is : 144
+          for Eg. Number = 3, :- The First 3 digit Fibonacci number is : 144
           with index 12
           Another eg. number = 20, : Fib. no = 12200160415121876738
           with index no. 93
