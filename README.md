@@ -27,3 +27,21 @@ I have tried to code some random problems in java or c
           Note : I have taken the Fib. Series from 0 i.e
           0 1 1 2 3 5 8 13 21 34 .....
                                           (FibNum.java)
+                                          
+4. Program to print pattern given below, for only odd numbers :
+
+          x                       x
+            x                   x
+          x   x               x   x
+            x   x           x   x
+          x   x   x       x   x   x
+            x   x   x   x   x   x
+          x   x   x   x   x   x   x
+            x   x   x   x   x   x
+          x   x   x       x   x   x
+            x   x           x   x
+          x   x               x   x
+            x                   x
+          x                       x
+          
+                                           (Pattern.java)
